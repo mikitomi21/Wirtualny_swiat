@@ -1,0 +1,7 @@
+﻿  World.cpp
+C:\Users\kubas\source\repos\Wirtualny_swiat\Wirtualny_swiat\World.cpp(146,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kubas\source\repos\Wirtualny_swiat\Wirtualny_swiat\World.cpp(148,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kubas\source\repos\Wirtualny_swiat\Wirtualny_swiat\World.cpp(165,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kubas\source\repos\Wirtualny_swiat\Wirtualny_swiat\World.cpp(194,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\kubas\source\repos\Wirtualny_swiat\Wirtualny_swiat\World.cpp(382,20): warning C4018: '<': signed/unsigned mismatch
+  Wirtualny_swiat.vcxproj -> C:\Users\kubas\source\repos\Wirtualny_swiat\Debug\Wirtualny_swiat.exe
